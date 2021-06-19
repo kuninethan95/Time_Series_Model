@@ -34,7 +34,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 <img src="output_39_0.png">  
 
 
-```
+
 - **Travis:** Selected due to lowest mean/median
 - Tarrant: Not selected due to high standard deviation
 - **Bexar:** Selected due to moderate mean/median and lowest standard deviation
@@ -45,7 +45,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Montgomery: Not selected due to high standard deviation
 - **Denton:** Selected due to similar median/mean as Montgomery but lower standard deviation
 - McLennan: Not selected
-```
+
 
 -----
 
