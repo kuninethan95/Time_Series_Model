@@ -256,4 +256,4 @@ range of values
 
 > **Final Recommendation:** Invest $100,000 in equity across 78210, 78758, 77092, 76201, 75023 in their respective 'dip' months and hold for at least two years with intetention to sell in their 'peak' months. 
 
-For more details please see the following [Jupyter Notebook](https://github.com/kuninethan95/Time_Series_Model/blob/main/time-series/starter_notebook.ipynb) or email kunin.ethan95@gmail.com
+For more details please see the following [Jupyter Notebook](https://github.com/kuninethan95/Time_Series_Model/blob/main/Texas_zip_code_analysis.ipynb) or email kunin.ethan95@gmail.com
