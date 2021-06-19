@@ -31,7 +31,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 
 
 
-<img src="output_39_0.png">  
+<img src="images/output_39_0.png">  
 
 
 
