@@ -31,7 +31,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 
 
 
-<img src="output_39_0.png">  
+<img src="../images/output_39_0.png">  
 
 
 
@@ -57,7 +57,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
     - Using this metric, I have an agnostic way to select the top 3 zip codes per county to further analyze
 
 
-<img src="output_49_0.png">  
+<img src="../images/output_49_0.png">  
 
 
 - Visualization showing the top 5 growth zip codes per county
