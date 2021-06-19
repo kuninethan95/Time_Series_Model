@@ -57,7 +57,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
     - Using this metric, I have an agnostic way to select the top 3 zip codes per county to further analyze
 
 
-<img src="output_49_0.png">  
+<img src="images/output_49_0.png">  
 
 
 - Visualization showing the top 5 growth zip codes per county
@@ -77,7 +77,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 ## Travis County
 
 
-<img src="output_117_0.png"> 
+<img src="images/output_117_0.png"> 
 
     
 
@@ -99,7 +99,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Located in San Antonio metro
 - Population: 2,003,554
 
-<img src="output_166_0.png"> 
+<img src="images/output_166_0.png"> 
 
 
 - 78212 has the highest ending point with the tightest confidence interval
@@ -112,7 +112,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Population: 4,698,619
 
 
-<img src="output_210_0.png"> 
+<img src="images/output_210_0.png"> 
     
 
 
@@ -126,7 +126,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Located in El Paso metro
 - Population: 681,000
 
-<img src="output_254_0.png"> 
+<img src="images/output_254_0.png"> 
 
     
 
@@ -144,7 +144,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Population: 782,341
 
 
-<img src="output_298_0.png"> 
+<img src="images/output_298_0.png"> 
 
 
 - 75069 has the highest ending point but also has a very large confidence interval
@@ -160,7 +160,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 - Population: 662,614
     
 
-<img src="output_342_0.png"> 
+<img src="images/output_342_0.png"> 
     
 
 
@@ -189,7 +189,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
     - 76201 (Denton - DFW)
 
 
- <img src="output_351_0.png">   
+ <img src="images/output_351_0.png">   
 
 
 - Entry point for 78758, 75023, and 77092 are all fairly close
@@ -210,7 +210,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
     - 75023 (Collin - DFW)
     - 76201 (Denton - DFW)
 
- <img src="corr_comparison.png"> 
+ <img src="images/corr_comparison.png"> 
 
     
 
@@ -231,7 +231,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 
 ## Top 5 Zip Code Forecasts
 
-<img src="top_5_zips.png"> 
+<img src="images/top_5_zips.png"> 
 
 
 
@@ -240,7 +240,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 
 ## Determing Optimal Time to Buy Based on Seasonality
 
-<img src="seasonality.png"> 
+<img src="images/seasonality.png"> 
 
 - **78210:** Buy in April, sell in December
 - **78758:** Buy in July, sell in November
@@ -250,7 +250,7 @@ Primary and secondary markets have strong demand for tenants. Exposure to both m
 
 ## Projected Return
 
-<img src="final_viz.png"> 
+<img src="images/final_viz.png"> 
 
 
 - Various returns based on different hold periods
